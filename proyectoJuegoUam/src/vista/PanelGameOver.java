@@ -2,7 +2,6 @@ package vista;
 
 import eventos.ManejadorBotones;
 import logica.Juego;
-import logica.Jugador;
 
 import javax.swing.JLabel;
 import java.awt.Color;

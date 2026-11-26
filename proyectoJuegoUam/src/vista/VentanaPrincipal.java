@@ -3,7 +3,6 @@ package vista;
 import eventos.JuegoListener;
 import eventos.ManejadorBotones;
 import logica.Historial;
-import logica.Jugador;
 import logica.Sonido;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;

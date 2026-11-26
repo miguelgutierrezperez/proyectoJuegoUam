@@ -1,7 +1,6 @@
 package eventos;
 
 import logica.Juego;
-import logica.NaveJugador;
 import vista.PanelJuego;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
